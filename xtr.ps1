@@ -1,0 +1,1 @@
+SCHTASKS /CREATE /TN "CMS XTR" /XML '.\Tasks.xml'
